@@ -1,0 +1,32 @@
+p {color:rgb(8, 61, 61);
+font-size: 30px; font-family:Georgia, 'Times New Roman', Times, serif;}
+
+body {background-color: rgb(126, 87, 102); background: linear-gradient(to top, blue, red)}
+
+div {max-width:50%;background-color: rgb(243, 193, 212); margin: 20px auto;border-radius: 15px; padding: 20px;}
+
+h1 {text-align: center; color :rgb(94, 36, 86); text-shadow: 0px 0px 30px red;  }
+
+h2 {text-align: center;}
+
+img {width: 100%; border-radius: 20px}
+
+li {font-size: 23px}
+
+a {font-size: 18px; transition: 0.5s;  display: block; margin: auto; }
+
+a p {text-align: center; font-size: 18px; display: block; margin: auto; color: rgb(255, 101, 126);}
+
+a:hover {color:white;   transform: scale(1.2);}
+
+.click {width:175px;
+    margin: auto;display: block;
+
+}
+
+footer{text-align: center;
+color: aliceblue;}
+
+.linkfinal:visited{
+    color:aqua
+}
