@@ -1,6 +1,6 @@
 # Projetos dos Alunos — Robótica Educacional
 
-Este repositório reúne os **sites desenvolvidos por alunos do 9º ano** em 2025 durante as aulas de **Robótica Educacional** do **Colégio Objetivo Sapiens - Altamira Pará**.
+Este repositório reúne os **sites desenvolvidos por alunos do 9º ano** em 2025 durante as aulas de **Robótica Educacional** do **Colégio Objetivo Sapiens - Altamira Pará**, ministrada  **por mim, Professor William Queiroz**.
 
 O projeto teve como foco a aplicação prática de **HTML e CSS**, aliando fundamentos técnicos à criatividade individual de cada aluno.
 
